@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git repository<br>
-Author:Gungun Wadhwani
+Author:Gungun(Apna College)
